@@ -19,7 +19,7 @@ Technologies Used <br />
 Programming Language: C# Object-oriented programming <br />
 CLI: Simple text-based interface for interaction. <br />
 Getting Started <br />
-To run the game locally: <br />
+To run the game locally:
 1. Clone the repository. <br />
 2. Install the necessary dependencies (if any). <br />
 3. Run the game using the provided instructions. (Ctrl + F5) <br />
